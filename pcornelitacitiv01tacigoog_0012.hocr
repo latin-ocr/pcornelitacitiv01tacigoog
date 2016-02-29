@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pcornelitacitiv01tacigoog_0012.png"; bbox 0 0 2780 4320; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 174 2077 1017 2178">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 174 2077 1017 2178">
+     <span class='ocr_line' id='line_1_1' title="bbox 174 2077 1017 2178; baseline 0.004 -24"><span class='ocrx_word' id='word_1_1' title='bbox 174 2174 177 2178; x_wconf 36' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 293 2077 409 2155; x_wconf 81' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_3' title='bbox 447 2079 573 2154; x_wconf 81' lang='lat' dir='ltr'>LlFE</span> <span class='ocrx_word' id='word_1_4' title='bbox 611 2080 683 2154; x_wconf 58' lang='grc' dir='ltr'>οι»</span> <span class='ocrx_word' id='word_1_5' title='bbox 719 2079 1017 2158; x_wconf 76' lang='lat' dir='ltr'>AGRlcoLA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1394 4320">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1394 4320">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1394 4320; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1394 4320; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
